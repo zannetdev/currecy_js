@@ -5,4 +5,5 @@ Auto format currency input field with commas and decimals if needed. Text is aut
 
 To use just add the following to an input field:
 
-data-type="currency"
+        <script src="global/res/currency.js"></script>
+        <input data-type="currency" type="text">
